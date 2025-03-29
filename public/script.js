@@ -142,14 +142,7 @@ const apiData = {
             status: "online",
             description: "Mengubah text kamu menjadi gambar brat.",
             endpoint: "/api/brat?text="
-        },
-        {
-            method: "POST",
-            title: "Quoted Chat",
-            status: "offline",
-            description: "Membuat gambar dengan desain quoted chat yang bisa kamu custom nama, color, foto profile, dan lainnya.",
-            endpoint: "/api/qc"
-        }
+                }
     ],
     "Berita": [
         {
